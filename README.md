@@ -1,7 +1,7 @@
 
 ## Table of Contents (Optional)
 
-- [Data collection](#Data collection)
+- [Data collection](#Data_collection)
 - [Understanding the data](#Understanding_data)
 - [Data Cleaning](#Data_Cleaning)
 - [Loading the training batch](#Loading_batch)
@@ -16,7 +16,7 @@
 ### from pip
 - `pip install tensorflow-gpu` 
 
-## Data collection
+## Data_collection
 - <a href="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip" target="_blank">Data Set</a> .
 
 ---
